@@ -31,6 +31,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="qNx-VY-ahx"/>
                     </view>
+                    <connections>
+                        <outlet property="sceneView" destination="224-4k-ykq" id="TRF-ID-nQV"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SZV-WD-TEh" sceneMemberID="firstResponder"/>
             </objects>
